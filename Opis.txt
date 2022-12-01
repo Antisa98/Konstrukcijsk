@@ -1,0 +1,5 @@
+Regulator napona:
+-pomicanjem potenciometra reguliramo ulazni napon
+-u konzoli se može promatrati trenutna vrijednost reguliranog napona
+-ledicama se signalizira postotak ulaznog napona dobiven na izlazu te nakon što izlazni napon prođe 85% ulaznog napona, pali se zujalica te crvena ledica počinje treperit
+-pritiskom na tipku gasimo treperenje ledice i zujalicu
